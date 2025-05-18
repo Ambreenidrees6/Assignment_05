@@ -1,6 +1,5 @@
 # Assignment_05
 
-# assignment-05
 ##🔐 **Secure Data Encryption System** – Step-by-Step Explanation
 
 ---
